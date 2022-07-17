@@ -19,14 +19,14 @@ _This project was originally created during the [MLH "Hack The Runway" Hackathon
 
 ---
 
-[**A Web Monetization Story**](https://ShivamAgarwal-code.github.io/web-monetization/) is a website that 
+[**A Web Monetization Project**](https://ShivamAgarwal-code.github.io/web-monetization/) is a website that 
 seeks to help creators understand how simple it is to enable [Web Monetization](https://webmonetization.org/) 
-on their own sites. The story of Auden and Chicken aims to engage users and help them relate to — and 
+on their own sites. The story of Shivam and Bob aims to engage users and help them relate to — and 
 understand the purpose of — Web Monetization. It includes a simple drag-and-drop tutorial to show the basic 
 steps needed to get Web Monetization running on a site. We want to make the tutorial easy and fun, and ensure 
 it is easily understood by those who are less technical.
 
-A Web Monetization Story starts off with an introduction to Shivam, an androgynous creator who recently 
+A Web Monetization starts off with an introduction to Shivam, an androgynous creator who recently 
 came across Web Monetization and integrated it into their blog. As a digital creator, Shivam is always 
 looking for new ways to support themself financially. At the same time, he wants to make sure that 
 readers have a good experience on the site, so integrating ads into Shivam's site didn't sit well with 
