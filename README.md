@@ -1,6 +1,6 @@
 ![Polaroid of Shivam and Bob](assets/preview_1280x640.png)
 
-# [**A Web Monetization Project**](https://ShivamAgarwal-code.github.io/web-monetization/)
+# [**A Web Monetization Project**](https://shivamagarwal-code.github.io/web-monetization/)
 
 [![Software License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Assets License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,7 +9,7 @@ An interactive [Web Monetization](https://webmonetization.org/) tutorial for onl
 
 _This project was originally created during the [MLH "Hack The Runway" Hackathon](https://hacktherunway.devpost.com/) (July 15th-17th, 2022)._
 
-**Try it out here:** https://ShivamAgarwal-code.github.io/web-monetization/
+**Try it out here:** https://shivamagarwal-code.github.io/web-monetization/
 
 **Demo video:** 
 
@@ -19,7 +19,7 @@ _This project was originally created during the [MLH "Hack The Runway" Hackathon
 
 ---
 
-[**A Web Monetization Project**](https://ShivamAgarwal-code.github.io/web-monetization/) is a website that 
+[**A Web Monetization Project**](https://shivamagarwal-code.github.io/web-monetization/) is a website that 
 seeks to help creators understand how simple it is to enable [Web Monetization](https://webmonetization.org/) 
 on their own sites. The story of Shivam and Bob aims to engage users and help them relate to — and 
 understand the purpose of — Web Monetization. It includes a simple drag-and-drop tutorial to show the basic 
