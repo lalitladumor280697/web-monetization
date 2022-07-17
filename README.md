@@ -7,7 +7,7 @@
 
 An interactive [Web Monetization](https://webmonetization.org/) tutorial for online creators.
 
-_This project was originally created during the [Betahack "Fix the Internet" Hackathon](https://hacktherunway.devpost.com/) (July 15th-17th, 2022)._
+_This project was originally created during the [MLH "Hack The Runway" Hackathon](https://hacktherunway.devpost.com/) (July 15th-17th, 2022)._
 
 **Try it out here:** https://ShivamAgarwal-code.github.io/web-monetization/
 
