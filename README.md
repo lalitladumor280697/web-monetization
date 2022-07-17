@@ -74,7 +74,7 @@ Overall, our project provides an interactive story and tutorial that introduces 
 
 ---
 
-## Connect with Us
+## Connect with Me
 - Linkedin
   - [Shivam](https://www.linkedin.com/in/shivam-agarwal-code/)
 
