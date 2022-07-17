@@ -52,7 +52,7 @@ The main Web Monetization concepts introduced in the tutorial include:
 - [`‘monetizationprogress’` event and event listener](https://webmonetization.org/docs/api#monetizationprogress), 
 - showing/hiding content based on whether a visitor is streaming payment to the site through Web Monetization.
 
-At the end of the tutorial, Auden presents a handful of resources that a user can leverage to continue on 
+At the end of the tutorial, Shivam presents a handful of resources that a user can leverage to continue on 
 with Web Monetization and join the Web Monetization community. Users can also download or copy the sample 
 code and view the sample code on Github.
 
