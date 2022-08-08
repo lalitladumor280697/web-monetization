@@ -13,8 +13,6 @@ _This project was originally created during the [MLH "Hack The Runway" Hackathon
 
 **Demo video:** 
 
-**Devpost submission:** https://devpost.com/software/borzoi
-
 **Drag and Drop Javascript Library:** https://github.com/bevacqua/dragula
 
 ---
